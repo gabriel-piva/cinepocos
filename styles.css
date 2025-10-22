@@ -94,7 +94,7 @@ body {
 .hero {
 	height: 92vh;
 	background: linear-gradient(rgba(44, 85, 48, 0.7), rgba(74, 124, 89, 0.8)),
-		url("assets/placeholder.avif") center/cover;
+		url("assets/galeria8.jpeg") center/cover;
 	display: flex;
 	align-items: center;
 	justify-content: center;
